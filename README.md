@@ -20,6 +20,7 @@ This dashboard should aim to empower Global Super Store with actionable insights
 2-     The sales team is looking to identify trends over the years to inform their strategy. They need to see how their annual sales perform Over the year  and on the same graph they also want to know the overall trend and sales of their store over the years.
  
 3-    Marketing and finance teams need to understand the seasonality and profitability trends to optimise their campaigns and budgets. Sales and finance teams are working together for this cause, they need a graph that can help them understand.
+
 ●	   	How do our sales and profits fluctuate month by month? 
 
 ●	   	Are there particular months where profits significantly increase or decrease, indicating potential seasonal trends?
