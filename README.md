@@ -130,6 +130,8 @@ After Clustering, companies want a visual that will show total numbers   of cons
     	   CLV = (Average Order Value* Average Profit Margin)/ Purchase Frequency.
  
 9.      The Global Super Store Marketing team is interested in understanding how individuals of a specific gender, earning either above or below the average income for their gender, prefer ordering different subcategories across various regions. Based on this information, the marketing team aims to develop a targeted strategy.
+
+    
     
 
 **MAIL 6**
@@ -150,6 +152,8 @@ After Clustering, companies want a visual that will show total numbers   of cons
 8.      The client wishes to know the number of churned customers for the years 2016, 2017, and 2018. The CEO is now interested in knowing how far we need to go in customer retention services.
  
 9.      The client requires a visual that displays the top-selling product in each country. This visual should highlight the most popular products in different regions and provide insights into regional preferences and market demand. It will be useful for targeted marketing and inventory management strategies.
+
+    
  
 
 **MAIL 7**
@@ -165,6 +169,8 @@ After Clustering, companies want a visual that will show total numbers   of cons
  
 5.      Evaluate the year-over-year growth in new customer acquisition and the percentage growth in the total customer base. This analysis will help the company understand the effectiveness of its customer acquisition strategies and track the expansion of its customer base over time, providing insights for future marketing and retention efforts.
 6.  Client wants a visual where he will have authority to select the profit % and only the country that lies in that profit % range should be displayed.
+
+   
 
 **MAIL 8**
 
