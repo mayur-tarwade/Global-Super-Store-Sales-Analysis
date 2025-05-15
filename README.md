@@ -261,6 +261,6 @@ Here is a description of the columns in the dataset:
 **weeknum:** The week number when the order was placed.
 
 ### Steps Involved:
-1. Load the data into Power BI as csv.
-2. Applied required transformations in Power Query.
-3. Sloved all the problem statements given in 8 mails by client Global Superstore.
+1. Load the data into **Power BI Desktop** as csv.
+2. Applied required transformations in **Power Query**.
+3. Sloved all the problem statements given in 8 mails by client **Global Superstore**.
