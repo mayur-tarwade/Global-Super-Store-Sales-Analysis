@@ -25,6 +25,7 @@ This dashboard should aim to empower Global Super Store with actionable insights
 ●	   	Are there particular months where profits significantly increase or decrease, indicating potential seasonal trends?
 
 4-     The regional managers are keen to understand the performance of different markets to allocate resources effectively.
+
 ●	     They need to know Which markets are generating the most sales and profits.
 
 ●	     Are there specific markets where we need to focus our efforts to boost performance?
