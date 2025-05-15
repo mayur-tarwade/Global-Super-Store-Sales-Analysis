@@ -1,4 +1,7 @@
 ### Global Superstore Sales Analysis
+### Problem Statement:
+https://github.com/mayur-tarwade/Global-Super-Store-Sales-Analysis/blob/main/Global%20Super%20Store..docx
+
 Global Superstore dataset contains the following four sheets:
 
 **Orders** – Likely contains detailed transaction-level sales data.
