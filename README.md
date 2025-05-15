@@ -9,18 +9,23 @@ This dashboard should aim to empower Global Super Store with actionable insights
 
 1-     Global Super Store wants to quickly assess its overall performance through key metrics. The management needs a concise overview of:
 ●	    What is our total revenue generated so far?
+
 ●	    How profitable have we been over the years?
+
 ●	    How many orders have we successfully processed?
+
 ●	    How many consumers have we served?
 
 2-     The sales team is looking to identify trends over the years to inform their strategy. They need to see how their annual sales perform Over the year  and on the same graph they also want to know the overall trend and sales of their store over the years.
  
 3-    Marketing and finance teams need to understand the seasonality and profitability trends to optimise their campaigns and budgets. Sales and finance teams are working together for this cause, they need a graph that can help them understand.
 ●	   	How do our sales and profits fluctuate month by month? 
+
 ●	   	Are there particular months where profits significantly increase or decrease, indicating potential seasonal trends?
 
 4-     The regional managers are keen to understand the performance of different markets to allocate resources effectively.
 ●	     They need to know Which markets are generating the most sales and profits.
+
 ●	     Are there specific markets where we need to focus our efforts to boost performance?
  
 5-   To  Boost their business, Global Superstore thought of planning their business quarterly. For that they need to know their overall sales for each quarter.
@@ -46,7 +51,7 @@ Management has identified an operational challenge: when selecting any slicer, t
 
 
 
-MAIL 3
+**MAIL 3**
  
 Global Superstore has been frequenting your desk with numerous minor queries, causing interruptions to other ongoing projects within the company. In response to this challenge, your boss has tasked you with developing a solution that empowers end-users (Global Super Store) to obtain answers to their questions independently. By implementing a user-friendly tool or feature, such as a searchable database or an interactive FAQ system, users can simply type their queries and retrieve instant responses. This initiative aims to enhance efficiency, reduce dependency on direct support, and allow for smoother workflow across all projects.
 
@@ -67,7 +72,7 @@ For the visual that will be displaying the sales, client have made a request to 
 
 
 
-MAIL 4
+**MAIL 4**
  
 The client is happy with your work and wants to continue with you for further Business Intelligence.
 They have produced a quick requirement. The company core team has a meeting and they must discuss some topics. They have advised the BA team to give their input for this meeting which is scheduled in the next 1.5 hours. BA Team approached you to build some visuals, however due to time constraint they want you to build those visuals in next 25 minutes only, so that rest 1 hour can be spent by BA team on those visuals to form some inputs.
@@ -85,7 +90,7 @@ As Global SuperStore has been your client for a long time and this is the time t
 
 
 
-MAIL 5
+**MAIL 5**
  
 1.      The client requires a visual representation to display the status of order processing. Orders will be classified as delayed if the shipping date exceeds the order date by more than two days.
  
@@ -122,8 +127,9 @@ After Clustering, companies want a visual that will show total numbers   of cons
     	   CLV = (Average Order Value* Average Profit Margin)/ Purchase Frequency.
  
 9.      The Global Super Store Marketing team is interested in understanding how individuals of a specific gender, earning either above or below the average income for their gender, prefer ordering different subcategories across various regions. Based on this information, the marketing team aims to develop a targeted strategy.
+    
 
-MAIL 6
+**MAIL 6**
  
 1.      The client requests an analysis of the count of high-value customers segmented by region. High-value  orders are defined as those who have made a purchase exceeding $1,500 with a profit percentage of at least 25% for that specific order.Client also wants to know out of total orders of that region how much population is high value customers.
 2.      The client has requested an enhancement to the previously created sales visual (Desired Sales). They would like the visual to display the variance between the desired sales of 2019 and desired sales of 2018 or the same date values.
@@ -143,7 +149,7 @@ MAIL 6
 9.      The client requires a visual that displays the top-selling product in each country. This visual should highlight the most popular products in different regions and provide insights into regional preferences and market demand. It will be useful for targeted marketing and inventory management strategies.
  
 
-MAIL 7
+**MAIL 7**
  
 1.      Analyse the company's product portfolio to determine the top 10 products that contribute the most to overall profitability.
  
@@ -157,7 +163,7 @@ MAIL 7
 5.      Evaluate the year-over-year growth in new customer acquisition and the percentage growth in the total customer base. This analysis will help the company understand the effectiveness of its customer acquisition strategies and track the expansion of its customer base over time, providing insights for future marketing and retention efforts.
 6.  Client wants a visual where he will have authority to select the profit % and only the country that lies in that profit % range should be displayed.
 
-MAIL 8
+**MAIL 8**
 
 1.	Find the total numbers of orders returned per market, and also analyse the returns for each market on the basis segment.
 
