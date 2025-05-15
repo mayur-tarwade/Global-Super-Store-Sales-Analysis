@@ -13,27 +13,27 @@ This dashboard should aim to empower Global Super Store with actionable insights
 
 1-     Global Super Store wants to quickly assess its overall performance through key metrics. The management needs a concise overview of:
 
-	●	    What is our total revenue generated so far?
-	
-	●	    How profitable have we been over the years?
-	
-	●	    How many orders have we successfully processed?
-	
-	●	    How many consumers have we served?
+●	    What is our total revenue generated so far?
+
+●	    How profitable have we been over the years?
+
+●	    How many orders have we successfully processed?
+
+●	    How many consumers have we served?
 
 2-     The sales team is looking to identify trends over the years to inform their strategy. They need to see how their annual sales perform Over the year  and on the same graph they also want to know the overall trend and sales of their store over the years.
  
 3-    Marketing and finance teams need to understand the seasonality and profitability trends to optimise their campaigns and budgets. Sales and finance teams are working together for this cause, they need a graph that can help them understand.
 	
-	●	   	How do our sales and profits fluctuate month by month? 
-	
-	●	   	Are there particular months where profits significantly increase or decrease, indicating potential seasonal trends?
+●	   	How do our sales and profits fluctuate month by month? 
+
+●	   	Are there particular months where profits significantly increase or decrease, indicating potential seasonal trends?
 
 4-     The regional managers are keen to understand the performance of different markets to allocate resources effectively.
 
-	●	     They need to know Which markets are generating the most sales and profits.
-	
-	●	     Are there specific markets where we need to focus our efforts to boost performance?
+●	     They need to know Which markets are generating the most sales and profits.
+
+●	     Are there specific markets where we need to focus our efforts to boost performance?
  
 5-   To  Boost their business, Global Superstore thought of planning their business quarterly. For that they need to know their overall sales for each quarter.
  
@@ -45,36 +45,36 @@ This dashboard should aim to empower Global Super Store with actionable insights
  
 **MAIL 2**
  
-	The company is pleased with the dashboard you have built so far; however, the company has suggested some new additions and some editing.
-	 
-	The CEO observed that the total sales and total profit values fluctuate with interactions on the graph. They now require a fixed value for these metrics, separately from the dynamic values that change with visual interactions, so that they can always have an eye on the totals.
-	 
-	In 2016, the company set a 5-year target to achieve an overall sales goal of $25 million and a profit goal of $10 million by the end of 2020. According to this plan, by the end of 2019, the company should have reached a sales target of $20 million. This equates to approximately $1.7 million in sales per month(collectively) from 2016 to 2019.
-	 As the company is far beyond the target to be achieved, the company is now interested in seeing for each month collectively (2016-2019) fluctuations of our sales performance from the target help company visualise this.
-	Company is also interested in seeing a visual of how far they are from the set profit target.
-	 
-	Management has identified an operational challenge: when selecting any slicer, transitioning back to the default view becomes cumbersome and time-consuming. To streamline this process, they have requested the implementation of a dedicated button. This button will enable them to swiftly return to the default view with a single click, eliminating the need to manually deselect each slicer. This enhancement aims to enhance user experience by providing a more intuitive and efficient navigation option within the dashboard.
+The company is pleased with the dashboard you have built so far; however, the company has suggested some new additions and some editing.
+ 
+The CEO observed that the total sales and total profit values fluctuate with interactions on the graph. They now require a fixed value for these metrics, separately from the dynamic values that change with visual interactions, so that they can always have an eye on the totals.
+ 
+In 2016, the company set a 5-year target to achieve an overall sales goal of $25 million and a profit goal of $10 million by the end of 2020. According to this plan, by the end of 2019, the company should have reached a sales target of $20 million. This equates to approximately $1.7 million in sales per month(collectively) from 2016 to 2019.
+ As the company is far beyond the target to be achieved, the company is now interested in seeing for each month collectively (2016-2019) fluctuations of our sales performance from the target help company visualise this.
+Company is also interested in seeing a visual of how far they are from the set profit target.
+ 
+Management has identified an operational challenge: when selecting any slicer, transitioning back to the default view becomes cumbersome and time-consuming. To streamline this process, they have requested the implementation of a dedicated button. This button will enable them to swiftly return to the default view with a single click, eliminating the need to manually deselect each slicer. This enhancement aims to enhance user experience by providing a more intuitive and efficient navigation option within the dashboard.
  
 
 
 
 **MAIL 3**
  
-	Global Superstore has been frequenting your desk with numerous minor queries, causing interruptions to other ongoing projects within the company. In response to this challenge, your boss has tasked you with developing a solution that empowers end-users (Global Super Store) to obtain answers to their questions independently. By implementing a user-friendly tool or feature, such as a searchable database or an interactive FAQ system, users can simply type their queries and retrieve instant responses. This initiative aims to enhance efficiency, reduce dependency on direct support, and allow for smoother workflow across all projects.
+Global Superstore has been frequenting your desk with numerous minor queries, causing interruptions to other ongoing projects within the company. In response to this challenge, your boss has tasked you with developing a solution that empowers end-users (Global Super Store) to obtain answers to their questions independently. By implementing a user-friendly tool or feature, such as a searchable database or an interactive FAQ system, users can simply type their queries and retrieve instant responses. This initiative aims to enhance efficiency, reduce dependency on direct support, and allow for smoother workflow across all projects.
 
 
 
 
  
-	Global Super Store seeks to enhance its regional performance analysis and resource allocation strategy. They want to understand which geographic country is driving high sales and where profitability is strongest. Rather than bar chart or line chart they need some visuals in the form of maps,
-	 The visuals should be very understandable and interactive.
-	The client has specified some visualisation specifications to you: -
-	 He wants that in the visuals that will display the profit chart, the colour of the country with lowest profit should be red and colour of country with the highest profit to be green and in between values to be coloured as gradient.
-	For the visual that will be displaying the sales, client have made a request to show that the countries where sales are
-	 <80,000 should be coloured dark red,
-	 between 80,000 to 200000 it should be red,
-	 between 200000 to 700000 it should be green,
-	 and above 700000 it should be golden.
+Global Super Store seeks to enhance its regional performance analysis and resource allocation strategy. They want to understand which geographic country is driving high sales and where profitability is strongest. Rather than bar chart or line chart they need some visuals in the form of maps,
+ The visuals should be very understandable and interactive.
+The client has specified some visualisation specifications to you: -
+ He wants that in the visuals that will display the profit chart, the colour of the country with lowest profit should be red and colour of country with the highest profit to be green and in between values to be coloured as gradient.
+For the visual that will be displaying the sales, client have made a request to show that the countries where sales are
+ <80,000 should be coloured dark red,
+ between 80,000 to 200000 it should be red,
+ between 200000 to 700000 it should be green,
+ and above 700000 it should be golden.
 
 
 
