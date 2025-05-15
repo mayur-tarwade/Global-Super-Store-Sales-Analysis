@@ -8,6 +8,7 @@ Global Super Store, a retail giant, has relied on Excel for their data analysis 
 This dashboard should aim to empower Global Super Store with actionable insights, enabling them to make data-driven decisions and improve their overall business performance. Each visual should be crafted to address specific business questions and challenges, providing a clear and informative representation of their data.
 
 1-     Global Super Store wants to quickly assess its overall performance through key metrics. The management needs a concise overview of:
+
 ●	    What is our total revenue generated so far?
 
 ●	    How profitable have we been over the years?
