@@ -1,0 +1,28 @@
+{
+  "name": "Corporate Theme",
+  "dataColors": [
+    "#007ACC",  
+    "#F1C40F",  
+    "#C0392B",  
+    "#27AE60",  
+    "#8E44AD"
+  ],
+  "background": "#EAEAEA",
+  "foreground": "#2C3E50",
+  "tableAccent": "#007ACC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          { "solid": { "color": "#EAEAEA" } }
+        ],
+        "title": [
+          { "color": "#2C3E50" }
+        ],
+        "labels": [
+          { "color": "#2C3E50" }
+        ]
+      }
+    }
+  }
+}
