@@ -100,14 +100,14 @@ As Global SuperStore has been your client for a long time and this is the time t
 **MAIL 5**
  
 1.      The client requires a visual representation to display the status of order processing. Orders will be classified as delayed if the shipping date exceeds the order date by more than two days.
- 
+
 2.      The client requires a detailed analysis to understand sales patterns based on the day of the week. They need a pie chart that visually compares the average sales volumes on weekends versus weekdays. This will help in identifying any significant differences in consumer behaviour and sales performance, enabling more informed strategic decisions for marketing and resource allocation.
- 
+
 3.      The company, CA, seeks a comprehensive analysis of sales data segmented by financial months and financial quarters. This breakdown will reveal sales performance trends and patterns within each fiscal period, facilitating effective strategic planning and accurate financial forecasting
- 
+
 4.    The company, Finance Manager, requires an analysis to determine the average cost per unit, segmented by category and subcategory. This detailed breakdown should provide insights into cost distribution and highlight areas for potential cost optimization, aiding in more precise budgeting and pricing strategies.
-                              	Cost Price = Sale Price – Profit – Shipping Cost
- 
+		Cost Price = Sale Price – Profit – Shipping Cost
+
 5.      Management wants to cluster its customers in different age groups.
 14-19	        Teen
 20-30	         Young
@@ -115,24 +115,24 @@ As Global SuperStore has been your client for a long time and this is the time t
 40-50 	Old Adult
 >50     	Old
 After Clustering, companies want a visual that will show total numbers   of consumers in each category and what is the contribution of each category to total consumer population.
- 
+
 6.      Clients have given the requirement to categorise the Income into different groups.
-    	0-30k 	             A
-         30K-60K 	             B
-         60K-100K    	    C
-         100K -150K     	    D
-	>150K               	    E
- Now, he wants a visual that will find the numbers of orders placed as per age category and income category in different regions.
- 
+0-30k 	             A
+ 30K-60K 	             B
+ 60K-100K    	    C
+ 100K -150K     	    D
+>150K               	    E
+Now, he wants a visual that will find the numbers of orders placed as per age category and income category in different regions.
+
 7.      The client wants a card that will show the sales from the date 15th April 2019 to 15th November 2019.
 
 
 8.      Global Super Store wants to value their   top 10 customers for their loyalty towards the store.
- Loyalty will be calculated on the basis of CLV Score [CLV score is Customer Loyalty Value Score]
+Loyalty will be calculated on the basis of CLV Score [CLV score is Customer Loyalty Value Score]
 
- CLV score is calculated: -
-    	   CLV = (Average Order Value* Average Profit Margin)/ Purchase Frequency.
- 
+CLV score is calculated: -
+   CLV = (Average Order Value* Average Profit Margin)/ Purchase Frequency.
+
 9.      The Global Super Store Marketing team is interested in understanding how individuals of a specific gender, earning either above or below the average income for their gender, prefer ordering different subcategories across various regions. Based on this information, the marketing team aims to develop a targeted strategy.
 
     
